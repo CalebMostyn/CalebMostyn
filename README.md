@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Caleb
 
-<!--
-**CalebMostyn/CalebMostyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer, engineer, and overall computer enthusiast.
+This is my personal GitHub, mostly used for my personal development endeavors.
 
-Here are some ideas to get you started:
+I have a variety of interests, and I am always trying to learn new things. 
+Some of my favorites include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- embedded systems and microcontrollers
+- computer graphics and game programming
+- machine learning and artificial intelligence
+
+Some topics I'm still learning about include:
+
+- low level and systems programming
+- shell scripting, linux ricing, and nvim
+- hardware design and HDLs
+
+Some topics I am NOT interested in include:
+
+- web design
+- web design
+- interpreted programming languages
