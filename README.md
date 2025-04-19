@@ -24,4 +24,4 @@ Some topics I am NOT interested in include:
 - interpreted programming languages
 
 ## Skills
-[My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,py,html,css,js,r,windows,linux,godot,unreal)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,py,html,css,js,r,windows,linux,godot,unreal)
