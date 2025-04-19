@@ -3,6 +3,7 @@
 I'm a programmer, engineer, and overall computer enthusiast.
 This is my personal GitHub, mostly used for my personal development endeavors.
 
+## Interests
 I have a variety of interests, and I am always trying to learn new things. 
 Some of my favorites include:
 
@@ -22,4 +23,5 @@ Some topics I am NOT interested in include:
 - web design
 - interpreted programming languages
 
+## Skills
 [My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,py,html,css,js,r,windows,linux,godot,unreal)
