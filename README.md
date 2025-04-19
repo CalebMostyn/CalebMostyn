@@ -1,4 +1,4 @@
-# Hi, I'm Caleb
+## Hi, I'm Caleb..
 
 I'm a programmer, engineer, and overall computer enthusiast.
 This is my personal GitHub, mostly used for my personal development endeavors.
@@ -21,3 +21,5 @@ Some topics I am NOT interested in include:
 - web design
 - web design
 - interpreted programming languages
+
+[My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,arduino,py,html,css,js,r,windows,linux,godot,unreal)
