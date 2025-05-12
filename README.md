@@ -1,7 +1,7 @@
 ## Hi, I'm Caleb..
 
 I'm a programmer, engineer, and overall computer enthusiast.
-This is my personal GitHub, mostly used for my personal development endeavors.
+This is my personal GitHub, mostly used for my own development endeavors.
 Feel free to check out my [personal website](https://caleb-mostyn.com), although it is largely a work-in-progress.
 
 ## Interests
